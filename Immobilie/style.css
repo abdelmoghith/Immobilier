@@ -832,7 +832,6 @@ a {
     display: block;
   }
   .intro {
-    background-size: contain;
     width: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
