@@ -205,6 +205,7 @@ hr {
   border-radius: 10px;
   outline: none;
   border: none;
+  text-align: end;
 }
 .leftContact {
   background-image: url(contact.svg);
@@ -791,10 +792,11 @@ a {
   #Desktop {
     display: none;
   }
-  .rightContact {
-    border-radius: 20px;
-    height: auto;
-  }
+    .rightContact {
+        border-radius: 20px;
+        height: auto;
+        text-align: end;
+    }
 }
 
 @media (max-width: 320px) {
