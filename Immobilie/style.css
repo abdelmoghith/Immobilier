@@ -528,7 +528,9 @@ hr {
 #tiktok {
   background-image: url(tiktok.png);
 }
-
+.leftBox{
+    text-align: right;
+}
 .Categoryes > div {
   background-color: #eee;
   margin: 30px auto;
