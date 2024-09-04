@@ -5,6 +5,9 @@
   font-family: "Libre Baskerville", serif;
   font-family: "Philosopher", sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 a:link {
   color: inherit;
   text-decoration: none;
